@@ -14,7 +14,7 @@ const jordan = {
       countries: ["Fiji", "Australia", "South Africa", "New Zealand"],
       goals: ["hunting", "sight seeing"]
     },
-    flyFishing: "Love fly fishing around the south island of New Zealand",
+    flyFishing: "Chillin out fly fishing around the south island of New Zealand",
   },
   currentProjects: [JavascriptChessGame, Todo.vim, lotsOfUniversity]
 }
