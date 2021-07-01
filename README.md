@@ -16,7 +16,7 @@ const jordan = {
     },
     flyFishing: "Chillin out fly fishing around the south island of New Zealand",
   },
-  currentProjects: [JavascriptChessGame, Todo.vim, VuddyTilingWM, LotsOfUniversity]
+  currentProjects: [JavascriptChessGame, Todo.vim, BuddyTilingWM, LotsOfUniversity]
 }
 ```
 
