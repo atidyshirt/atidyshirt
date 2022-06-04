@@ -6,8 +6,8 @@
 ```javascript
 const jordan = {
   gender: "male",
-  code: [Javascript, Python, Java, C, Bash, HTML, CSS, Vimscript ],
-  tools: [Vue, Node, Numpy, Jest, JUnit, Docker ],
+  code: [Javascript, Typescript Python, Java, C, Bash, HTML, CSS, Lua ],
+  tools: [Vue, Node, Numpy, Jest, JUnit, Docker, SerenityJS ],
   interests: {
     music: ["guitar", "keyboard", "live looping"],
     diving: {
@@ -16,7 +16,8 @@ const jordan = {
     },
     flyFishing: "Chillin out fly fishing around the south island of New Zealand",
   },
-  currentProjects: [JavascriptChessGame, Todo.vim, BuddyTilingWM, LotsOfUniversity]
+  currentProjects: [Ouroboros, University],
+  company: Allied Telesis Labs 
 }
 ```
 
