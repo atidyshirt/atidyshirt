@@ -1,5 +1,6 @@
 <h2> Hi, I'm Jordan! </h2>
 <p><em>Computer Scientist student studying at the University of Canterbury, Christchurch New Zealand</em></p>
+<p><em>Currently working at Allied Telesis Labs in automative regression testing department</em></p>
 
 ### Some more about me...  
 
