@@ -17,7 +17,7 @@ const jordan = {
     },
     flyFishing: "Chillin out fly fishing around the south island of New Zealand",
   },
-  currentProjects: [Ouroboros, University],
+  currentProjects: [Ouroboros, MarkdownLiterate],
   company: Allied Telesis Labs 
 }
 ```
